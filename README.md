@@ -1,6 +1,6 @@
 # multi-screen-jump
 
-主要是为了解决当你有多个外接屏幕, 且经常要做屏幕焦点切换时...
+当你有多个外接屏幕需要屏幕焦点切换时... 不一样的应用, 可通过alfred按照应用名字来调到前台，但左右屏幕是同一种应用.
 
 ![multi-screen](docs/multi-screen.jpg)
 
